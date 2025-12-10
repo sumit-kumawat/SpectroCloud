@@ -1,0 +1,5 @@
+{
+  "name": "SpectroCloud",
+  "description": "A comprehensive dashboard to fetch, view, visualize, and export user data from the Spectro Cloud API with pagination support.",
+  "requestFramePermissions": []
+}
